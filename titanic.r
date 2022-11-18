@@ -53,7 +53,7 @@
     "library(dplyr)\n",
     "library(ggplot2)\n",
     "test <- read.csv('../input/titanic/test.csv')\n",
-    "train <- read.csv('../input/titanic/train.csv')"
+    "train1 <- read.csv('../input/titanic/train.csv')"
    ]
   },
   {
